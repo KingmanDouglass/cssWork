@@ -1,0 +1,9 @@
+.container{
+    background-image: url('cssPrac.jpg');
+    background-color: red;
+    background-blend-mode: screen;
+}
+
+h1{
+    text-align: center;
+}
